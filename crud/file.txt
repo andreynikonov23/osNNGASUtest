@@ -1,0 +1,4 @@
+1       intelI5                       233     112
+
+2       phone                         2433    22  
+3       notebook                      2341    96  
