@@ -183,7 +183,7 @@ void massage() {
 void getCommand() {
     char input[256];
     while (1) {
-        printf("C:\\Users\\xxxke\\IdeaProjects\\prices\\~main:  ");
+        printf("Your command ->  ");
         if (fgets(input, sizeof(input), stdin) == NULL) {
             break;
         }
